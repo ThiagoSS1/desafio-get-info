@@ -7,7 +7,7 @@
 ---
 
  <p align="center">
-  <img alt="dev.finances" src="img/curriculo.jpeg" width="100%">
+  <img alt="dev.finances" src="img/systemfront.png" width="100%">
 </p>
 
 ## 🛠 Tecnologias
@@ -30,7 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Documentação com diagrama do projeto.
 
 <p align="center">
-  <img alt="dev.finances" src="img/wireframe.png" width="100%">
+  <img alt="dev.finances" src="" width="100%">
 </p>
 
 ## 📝 Licença
