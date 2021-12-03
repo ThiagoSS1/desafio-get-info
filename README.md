@@ -1,4 +1,4 @@
-# desafio-curriculo-growdev
+# desafio-getinfo
 
 ## 💻 Sobre o projeto
 
