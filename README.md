@@ -2,12 +2,12 @@
 
 ## 💻 Sobre o projeto
 
- - Desafio sobre a criação de um curríulo digital feito em javascript.
+ - Desafio sobre a criação de gerenciamento de certificados para aluno feito em javascript.
 
 ---
 
  <p align="center">
-  <img alt="dev.finances" src="img/systemfront.png" width="100%">
+  <img alt="" src="img/systemfront.png" width="100%">
 </p>
 
 ## 🛠 Tecnologias
